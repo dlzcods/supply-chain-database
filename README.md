@@ -17,6 +17,6 @@ Untuk detail lebih lanjut, silahkan baca [Laporan Proyek Akhir Supply Chain](htt
 Berikut hasil rancangan basis data setelah melalui proses normalisasi.
 ![SupplyChain V1 5_page-0002](https://github.com/dlzcods/supply-chain-database/assets/73648392/618c1287-e386-4306-815c-07a79383b243)
 
-<h2>Support</h2>
+<h2>Contacts</h2>
 
 Apabila memiliki pertanyaan ataupun saran terkait project ini, silahkan hubungi saya melalui [hafd324@gmail.com](mailto:hafd324d@gmail.com) atau [@diel_z](https://www.instagram.com/diel_z/)
